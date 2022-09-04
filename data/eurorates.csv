@@ -1,4 +1,4 @@
-Currency,Exchange
+currency,exchange
 USD,0.9993
 JPY,140.36
 BGN,1.9558
@@ -34,3 +34,4 @@ MOP,8.0468
 TWD,30.5118
 AED,3.655
 RSD,117.3336
+EUR,1
